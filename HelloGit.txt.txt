@@ -1,1 +1,2 @@
-Debug.Log("Hello Git);
+Debug.Log("Hello Git!);
+Debug.Log("Hello Got!);
