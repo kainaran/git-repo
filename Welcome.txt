@@ -2,3 +2,5 @@ Welcome1;
 Welcome again;
 WelcomeAdvanced f;
 Again mergeC;
+
+test2Feature
